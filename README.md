@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
+일반 크기
 
 <!--
 **eastlighting1/eastlighting1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
