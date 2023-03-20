@@ -20,7 +20,7 @@ We develop elements of life to change the world based on humanities!
 <br>
 
 ## Core Projects
-* 📕 Core Projects
+* 📕 Term Projects
 
 | Repository | Link | Description | Role | Language |
 | :---: | :---: | :---: | :---: | :---: |
