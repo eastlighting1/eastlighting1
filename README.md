@@ -1,4 +1,8 @@
 ## World-Learning Developer!
+<a href=""><img src="https://img.shields.io/badge/GitHub Blog-c9510c?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
+<a href="https://www.instagram.com/0dong_gle0/"><img src="https://img.shields.io/badge/Instagram-FFDC80?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
+<a href="mailto:eastlighting1@gachon.ac.kr"><img src="https://img.shields.io/badge/eastlighting1@gachon.ac.kr-EEEEEE?style=flat-square&logo=Gmail&logoColor=#EA4335"/></a>
+<br><br>
 We develop elements of life to change the world based on humanities!
 <br>
 
