@@ -1,4 +1,4 @@
-## World-learning Developer!
+## World-Learning Developer!
 We develop elements of life to change the world based on humanities!
 <br>
 
