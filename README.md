@@ -30,7 +30,7 @@ We develop elements of life to change the world based on humanities!
 | :---: | :---: | :---: | :---: | :---: |
 | Inventory_Management | [Link](https://github.com/21S1-JAVA-Team5/Inventory_Management) | Inventory Management Software | Sub Developer | Java |
 | Mobile-Programming-Term | [Link](https://github.com/xornjswldh/Mobile-Programming-Term) | Android News Viewer App | Sub Developer | Java & XML |
-
+| Cartoonizer | [Link](https://github.com/eastlighting1/Cartoonizer) | Style Transfer (CV) | Sub Developer + Evaluation | Python |
 <br>
 
 * 🖥️ Career-Related Projects
