@@ -40,6 +40,15 @@ We develop elements of life to change the world based on humanities!
 | SteamGame-Recommendation | [Link](https://github.com/twoone17/SteamGame-Recommendation) | Recommendation System <br> using Steam Dataset | EDA & Clustering |  Python |
 | FRIMO_ML | [Link](https://github.com/Friend-for-Modern-people/FRIMO_ML) | ML part of Chatting App | Main AI Developer | Python & JSON |
 
+* ✏️ STUDY
+
+| Organization / Repository | Link | Description | Memo |
+| :---: | :---: | :---: | :---: |
+| NEKA | [Link](https://github.com/gachonNEKA) | Study for Basic Machine Learning Tasks | President of 1st Gen. |
+| LANGMAKE | [Link](https://github.com/gachonLANGMAKE) | Study for NLP | President of 1st Gen. |
+| 수나로움 | [Link](https://github.com/sunaroum) | Project for Financial Big Data | President of 1st Gen. |
+| 이다 | [Link](https://github.com/sunaroum) | Project for Big Data | President of 1st Gen. |
+
 <br>
 
 <!--
