@@ -49,6 +49,7 @@ We develop elements of life to change the world based on humanities!
 | LANGMAKE | [Link](https://github.com/gachonLANGMAKE) | Study for NLP | President of 1st Gen. |
 | 수나로움 | [Link](https://github.com/sunaroum) | Project for Financial Big Data | President of 1st Gen. |
 | 이다 | [Link](https://github.com/gachonEDA) | Project for Big Data | President of 1st Gen. |
+| MLADS | [Link](https://github.com/mlads-gachon) | Review Study for Big Data & Machine Learning | President of 1st Gen. |
 
 <br>
 
