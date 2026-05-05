@@ -24,8 +24,9 @@ Applied AI researcher building deployable conversational AI and medical AI syste
   - [HerMAS](https://github.com/eastlighting1/HerMAS), python-based event-driven orchestration core for multi-agent systems (TBA)
     
 - Studying
-  - [Lang_Chain_Graph](https://github.com/eastlighting1/Lang_Chain_Graph), A learning repository for AI agents · Agentic AI built with LangChain and LangGraph
-  - [PydanticAI_Agentic](https://github.com/eastlighting1/PydanticAI_Agentic), A learning repository for AI agents · Agentic AI built with Pydantic AI
+  - [LangChain/LangGraph](https://github.com/eastlighting1/Lang_Chain_Graph), A learning repository for AI agents · Agentic AI built with LangChain and LangGraph
+  - [PydanticAI](https://github.com/eastlighting1/PydanticAI_Agentic), A learning repository for AI agents · Agentic AI built with Pydantic AI
+  - [VLM STUDY](https://github.com/eastlighting1/VLM_STUDY), A learning repository for VLM researches
 
 <br>
 
