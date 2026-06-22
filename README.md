@@ -6,7 +6,7 @@ Applied AI researcher building deployable conversational AI and medical AI syste
 - Focused on reproducible experiments and practical delivery
 - Bridging research, engineering, and documentation
 
-[Portfolio](https://github.com/user-attachments/files/26355937/_.pdf) · [Resume](https://github.com/user-attachments/files/26355946/_.pdf)
+[Portfolio](https://github.com/user-attachments/files/29189833/_._V3.pdf) · [Resume](https://github.com/user-attachments/files/29189831/_._V3.pdf)
 
 <br>
 
